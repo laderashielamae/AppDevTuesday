@@ -26,6 +26,7 @@ public class Week5 {
         Gabronino.display();
         Jesalva.display();
         Lamac.display();
+        Ladera.display();
         Mago.display();
         Mangui.display();
         Mata.display();
